@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "realfakeplayers",
+    "name": "RealFakePlayers",
+    "description": "Adding real fake players to the game to bypass annoying fake player checks",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Pelotrio"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
